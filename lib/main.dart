@@ -33,7 +33,8 @@ class _MyAppState extends State<MyApp> {
     final server = new LocalAssetsServer(
       address: InternetAddress.loopbackIPv4,
 //      assetsBasePath: 'assets',
-      assetsBasePath: 'assets2',
+//      assetsBasePath: 'assets2',
+        assetsBasePath: 'assets3',
     );
 
     final address = await server.serve();
