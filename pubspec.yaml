@@ -50,6 +50,10 @@ flutter:
   assets:
      - assets/
      - assets/model/WaterBottle.glb
+     - assets2/
+     - assets2/model/scene.glb
+     - assets3/
+     - assets3/model/Soldier.glb
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
